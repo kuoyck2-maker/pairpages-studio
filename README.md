@@ -1,18 +1,12 @@
-# 雙人牌工作室｜單頁網站
+# 雙人牌工作室｜編輯・簡報美化・圖文整合
 
-這是一個可直接放到 GitHub Pages 的單頁接案網站。
+雙人牌工作室由十多年編輯經驗的女生們共同成立，擅長教材簡報排版、簡報美化、政策懶人包與圖文整合設計。。
 
-## 檔案
-- `index.html`：頁面內容
-- `styles.css`：CSS 視覺、背景、RWD
-- `script.js`：滾動淡入、手機選單、滑鼠輕微視差
+## 合作流程
+- 加 LINE 傳需求、頁數、用途、期限與參考風格。
+- 我們確認內容複雜度後，回覆價格區間與交期。
+- 開始製作，完成後交付可編輯檔或約定格式。
 
-## 需要替換的地方
+## 歡迎加入LINE詢問喔
 1. LINE 連結：搜尋 `https://lin.ee/your-line-link`
 2. LINE ID：搜尋 `@yourline`
-3. QR Code 區塊：搜尋 `qr-placeholder`
-4. 作品方向範例：搜尋 `作品方向範例`
-5. 若日後有真作品，可把 `.work-thumb` 區塊替換成圖片或 PDF 連結
-
-## GitHub Pages
-把 `index.html`、`styles.css`、`script.js` 放到 repo 根目錄。
