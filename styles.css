@@ -889,3 +889,10 @@ footer {
     min-height: auto;
   }
 }
+
+
+.qr-img {
+  width: 100%;
+  display: block;
+  border-radius: 24px;
+}
